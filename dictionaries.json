@@ -1,0 +1,23 @@
+[
+    {
+        "file_name": "content/index.html",
+        "title": "About Me",
+        "output_file": "docs/index.html",
+        "opening_text": "Matthew Tucker",
+        "sub_text": "Coding Student"
+    },
+    {
+        "file_name": "content/projects.html",
+        "title": "My Projects",
+        "output_file": "docs/projects.html",
+        "opening_text": "Matthew Tucker",
+        "sub_text": "Marine Biologist"
+    },
+    {
+        "file_name": "content/blog.html",
+        "title": "My Blog",
+        "output_file": "docs/blog.html",
+        "opening_text": "Matthew Tucker",
+        "sub_text": "Political Operative"
+    }
+]
